@@ -12,3 +12,5 @@
 
 - seçilen kategoriyi tuttuğumuz state her değiştiğinde ilgili kategoriye ait video verisini al
 -- 'Feed.jsx' içerisinde her bir video için videoyu ekrana bas# youtube_clone
+
+![](youtubescreen.gif)
